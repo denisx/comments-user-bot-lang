@@ -34,7 +34,7 @@ module.exports = {
 	NotAddCommentToPost: 'Comment not added to post',
 	CommentsDeletedByAdmin: [
 		'Comments by user ${userId} deleted. ',
-		'User banned - he can\'t be able to write new comments at this channel''
+		'User banned - he can\'t be able to write new comments at this channel'
 	],
 	UserBannedMsg: 'You are banned at this channel and can\'t add comments. Try another channel.',
 	AwaitForPublishing: 'Await for publishing...',
