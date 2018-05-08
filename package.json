@@ -1,0 +1,11 @@
+{
+	"name": "Bot-Lang",
+	"version": "0.0.1",
+	"description": "Bot Lang",
+	"main": "./src/index.js",
+	"dependencies": {},
+	"repository": {},
+	"author": "Denis Khripkov",
+	"license": "ISC",
+	"bugs": {}
+}
